@@ -1,4 +1,5 @@
 ### Hi there 👋
+喜欢打游戏、听音乐，假期也喜欢一个人骑车兜风。
 
 <!--
 **Ivy231/Ivy231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
